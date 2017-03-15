@@ -12,6 +12,5 @@ By clicking on individual pointers more information is revealed (birth year, cou
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1WK5KRRe6vqQ6CPV2uyuk9rh0roA" width="640" height="480"></iframe>
 
 <iframe src=”https://joanameta.github.io/highcharts-scatter-csv” width=”90%” height=350></iframe>
-Scatter plot
 
 <iframe src=”https://joanameta.github.io/leaflet-map-simple” width=”90%” height=350></iframe>
